@@ -1,14 +1,14 @@
 ---
-aliases: 
-created_by: Ai-Tournaments
-display_name: Ai-Tournaments
-github_url: https://github.com/AI-Tournaments
+aliases: Algorithmic.Games
+created_by: AlgorithmicGames
+display_name: Algorithmic Games
+github_url: https://github.com/AlgorithmicGames
 logo: 
-related: ai-tournaments-arena-v1, ai-tournaments-participant, ai-tournaments-interface
+related: algorithmic-games-arena-v1, algorithmic-games-participant, algorithmic-games-interface
 released: July 22, 2020
 short_description: short_description.
-topic: ai-tournaments
-url: https://ai-tournaments.github.io/AI-Tournaments/?soon=ai-tournaments.io&soruce=GitHub-Explore
+topic: algorithmic-games
+url: https://Algorithmic.Games
 wikipedia_url: 
 ---
 long_description.
